@@ -1,0 +1,17 @@
+{
+	id: "8455fccd-04d2-4e54-adb9-dea5db9f75ab"
+	type: "player"
+	player_name: "GVIO2000"
+	ranks: {
+		8455fccd-04d2-4e54-adb9-dea5db9f75ab: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GVIO2000"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
